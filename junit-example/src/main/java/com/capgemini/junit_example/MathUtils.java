@@ -39,6 +39,8 @@ public class MathUtils {
 	}
 	public void check() {
 		System.out.println("change done");
+		System.out.println("change done2");
+		System.out.println("change done3");
 	
 	}
 }

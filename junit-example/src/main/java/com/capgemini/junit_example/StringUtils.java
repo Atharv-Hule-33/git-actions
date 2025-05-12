@@ -36,5 +36,10 @@ public class StringUtils {
 			return false;
 		return email.matches("^[A-Za-z0-9+_.-]+@[A-Za-z0-9.-]+$");
 	}
+	public void check() {
+		System.out.println("change done");
+		System.out.println("change done2");
+	
+	}
 
 }
